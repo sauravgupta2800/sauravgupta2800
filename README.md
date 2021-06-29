@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravgupta2800&label=Profile%20views&color=0e75b6&style=flat" alt="sauravgupta2800" /> </p>
 
-- 🔭 I’m currently working on [Frontendtools.dev](https://frontendtools.dev/)
+- 🔭 I’m currently working on [www.frontendtools.dev](https://frontendtools.dev/)
 
 - 🌱 I’m currently learning **AWS, Docker, GraphQL etc**
 
