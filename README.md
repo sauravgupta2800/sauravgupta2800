@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Saurav Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Grad Student and passionate Developer in United States</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sauravgupta2800&label=Profile%20views&color=0e75b6&style=flat" alt="sauravgupta2800" /> </p>
 
